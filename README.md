@@ -33,4 +33,4 @@ The dashboard can be filtered by:
 
 4)Selecting appropriate chart types for visualising the data.
 
-5)Using slicers to filter the pivot tables by region, occupation, education and marital statu
+5)Using slicers to filter the pivot tables by region, occupation, education and marital status
